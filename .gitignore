@@ -3,3 +3,9 @@
 /.cursor
 /.roo
 /output
+/.venv
+/__pycache__
+/__init__.py
+/cspell.json
+/.cspell
+/.vscode
